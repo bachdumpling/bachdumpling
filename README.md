@@ -8,9 +8,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-👨🏻‍💻 I'm a full-stack web developer based in NYC. 
-🇻🇳 Originally from Vietnam, I love coding, lifting weights, and nature. Let's connect!
+  
+  
+<div>
+  <h3>👨🏻‍💻 I'm a full-stack web developer based in NYC. </h3>
+  <h3>🇻🇳 Originally from Vietnam, I love coding, lifting weights, and nature. Let's connect!</h3>
+</div>
 
 SKILLS AND TOOLS:
 <div>
