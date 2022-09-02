@@ -14,7 +14,7 @@
   <h3>🇻🇳 Originally from Vietnam, I love coding, lifting weights, and nature. Let's connect!</h3>
 </div>
 
-SKILLS AND TOOLS:
+  <h2>SKILLS AND TOOLS:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -30,18 +30,3 @@ SKILLS AND TOOLS:
   <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachdumpling&layout=compact&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)
-
-<!--
-**bachdumpling/bachdumpling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
