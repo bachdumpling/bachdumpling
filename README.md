@@ -1,6 +1,16 @@
-### Hi there 👋 I'm Bach.
+<div id="header" align="center">
+  <h1>
+  Hey! I'm Bach Le
+  </h1>
+  <img src="https://media.giphy.com/media/N83opPd94lokXuoIqX/giphy.gif" border-radius="20px" width="200"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/mohamed-muflahi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-I love coding and lifting weights. Let's connect! 😁
+👨🏻‍💻 I'm a full-stack web developer based in NYC. 
+🇻🇳 Originally from Vietnam, I love coding, lifting weights, and nature. Let's connect!
 
 SKILLS AND TOOLS:
 <div>
@@ -15,8 +25,6 @@ SKILLS AND TOOLS:
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
 </div>
-<div>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachdumpling&layout=compact&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)
 
