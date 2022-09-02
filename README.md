@@ -5,7 +5,7 @@ I love coding and lifting weights. Let's connect! 😁
 SKILLS AND TOOLS:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling)](https://github.com/bachdumpling/github-readme-stats)
 
 <!--
 **bachdumpling/bachdumpling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
