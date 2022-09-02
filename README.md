@@ -5,7 +5,7 @@ I love coding and lifting weights. Let's connect! 😁
 SKILLS AND TOOLS:
 
 
-[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling)](https://github.com/bachdumpling/github-readme-stats)
+[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling)](https://github.com/bachdumpling/github-readme-stats&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachdumpling)](https://github.com/bachdumpling/github-readme-stats)
 
