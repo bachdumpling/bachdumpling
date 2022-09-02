@@ -2,9 +2,8 @@
   <h1>
   Hey! I'm Bach Le
   </h1>
-  <img src="https://media.giphy.com/media/N83opPd94lokXuoIqX/giphy.gif" border-radius="20px" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/mohamed-muflahi/">
+  <a href="https://www.linkedin.com/in/bachhoangle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
