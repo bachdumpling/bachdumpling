@@ -27,6 +27,7 @@ SKILLS AND TOOLS:
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
 </div>
+  <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachdumpling&layout=compact&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)
 
