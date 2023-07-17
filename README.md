@@ -1,4 +1,4 @@
-<div id="header" align="center">
+eew<div id="header" align="center">
   <h1>
   Hi! I'm Bach Le 🦦
   </h1>
@@ -32,5 +32,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
   <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachdumpling&layout=compact&theme=solarized-dark)](https://github.com/bachdumpling/github-readme-stats)[![Bach's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachdumpling&theme=solarized-dark&hide=prs&line_height=24)](https://github.com/bachdumpling/github-readme-stats)
