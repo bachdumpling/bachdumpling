@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <br/>
-  <a href="https://bachle.netlify.app/"> 
+  <a href="https://bachle.info/"> 
     My Portfolio Website 💼</a>
 </div>
   
