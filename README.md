@@ -14,7 +14,7 @@
   
 <div>
   <h3>👨🏻‍💻 I'm a full-stack web developer based in NYC. </h3>
-  <h3>🇻🇳 Originally from Vietnam, I love coding, nature, animals, and lifting weights. Let's connect!</h3>
+  <h3>🇻🇳 Originally from Vietnam, I love coding, art, gardening, cooking, and the gym. Let's connect!</h3>
 </div>
 
   <h2>SKILLS AND TOOLS:</h2>
